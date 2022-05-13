@@ -1,0 +1,3 @@
+/tmp/tmp.zVgk7OsnK6/cmake-build-debug/CMakeFiles/FinalExam.dir
+/tmp/tmp.zVgk7OsnK6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.zVgk7OsnK6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
