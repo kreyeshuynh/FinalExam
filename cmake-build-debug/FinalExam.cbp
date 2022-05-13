@@ -83,6 +83,12 @@
 		<Unit filename="/tmp/tmp.zVgk7OsnK6/main.cpp">
 			<Option target="FinalExam"/>
 		</Unit>
+		<Unit filename="/tmp/tmp.zVgk7OsnK6/trim.cpp">
+			<Option target="FinalExam"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.zVgk7OsnK6/trim.h">
+			<Option target="FinalExam"/>
+		</Unit>
 		<Unit filename="/tmp/tmp.zVgk7OsnK6/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

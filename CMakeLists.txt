@@ -3,4 +3,4 @@ project(FinalExam)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(FinalExam main.cpp)
+add_executable(FinalExam main.cpp trim.cpp trim.h)

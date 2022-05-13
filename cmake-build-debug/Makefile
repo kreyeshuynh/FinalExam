@@ -153,6 +153,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+trim.o: trim.cpp.o
+.PHONY : trim.o
+
+# target to build an object file
+trim.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/trim.cpp.o
+.PHONY : trim.cpp.o
+
+trim.i: trim.cpp.i
+.PHONY : trim.i
+
+# target to preprocess a source file
+trim.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/trim.cpp.i
+.PHONY : trim.cpp.i
+
+trim.s: trim.cpp.s
+.PHONY : trim.s
+
+# target to generate assembly for a file
+trim.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/trim.cpp.s
+.PHONY : trim.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +189,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... trim.o"
+	@echo "... trim.i"
+	@echo "... trim.s"
 .PHONY : help
 
 

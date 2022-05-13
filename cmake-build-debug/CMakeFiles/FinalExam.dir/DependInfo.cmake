@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/tmp/tmp.zVgk7OsnK6/main.cpp" "CMakeFiles/FinalExam.dir/main.cpp.o" "gcc" "CMakeFiles/FinalExam.dir/main.cpp.o.d"
+  "/tmp/tmp.zVgk7OsnK6/trim.cpp" "CMakeFiles/FinalExam.dir/trim.cpp.o" "gcc" "CMakeFiles/FinalExam.dir/trim.cpp.o.d"
   )
 
 # Targets to which this target links.

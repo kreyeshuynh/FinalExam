@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/FinalExam.dir/main.cpp.o"
   "CMakeFiles/FinalExam.dir/main.cpp.o.d"
+  "CMakeFiles/FinalExam.dir/trim.cpp.o"
+  "CMakeFiles/FinalExam.dir/trim.cpp.o.d"
   "FinalExam"
   "FinalExam.pdb"
 )

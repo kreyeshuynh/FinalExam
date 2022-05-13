@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/FinalExam.dir/main.cpp.o -o FinalExam 
+/usr/bin/c++ -g CMakeFiles/FinalExam.dir/main.cpp.o CMakeFiles/FinalExam.dir/trim.cpp.o -o FinalExam 
