@@ -12,6 +12,9 @@
 #include "trim.h"
 
 #include <cstring>
+#include <iostream>
+#include <algorithm>
+#include <string>
 
 unsigned  int string_length(const char inString[]) {
 
@@ -34,14 +37,17 @@ const char* trim_left(const char inString[]){
     }
     else{
         int i = 0;
-        if (reinterpret_cast<const char *>(inString[i]) == "-"){
-            ;
-            i++;
+        for(char c: "-"){
+            inString = "\0";
         }
     }
-
 };
 
 char* map_chars(const char inString[], char buffer[]){
+    switch (inString) {
+        case "a":
+            return "n";
+    }
 
+    return buffer;
 };
